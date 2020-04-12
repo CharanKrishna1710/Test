@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    text-decoration:dotted;
+    color:rgb(7, 63, 248);
+}
+.dots{
+    text-align:center;
+    color:rgb(228, 74, 99);
+}
+
+a{
+    margin-left: 300px;
+}
+
+img{
+    border-radius: 50%;
+    box-shadow:30px 25px 30px grey;
+ 
+}
+
+ul{
+    list-style: none;
+    border: 20 px dashed;
+    background: yellowgreen;
+    margin:100px 300px 100px 300px;   
+    
+}
+div{
+    background: indianred;
+    border:dotted;
+    border-color: greenyellow;
+    margin:30px 100px;
+    padding:50px;
+}
+body{
+    background-color:rgba(209, 20, 20, 0.26);
+}
+
+b{
+    color:black;
+    border:10px dotted brown;
+}
+#x{
+    text-align:center;
+    text-decoration-line:none;
+    background: rgb(73, 8, 224);
+}

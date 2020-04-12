@@ -1,0 +1,45 @@
+div{
+    text-align: center;
+    border: 2px solid black;
+    background:rgb(240, 197, 8);
+    color:black;
+}
+nav{
+    background:rgb(9, 236, 9);
+    text-align: center;
+}
+
+li{
+    display:inline;
+    margin:50px 100px;
+    list-style: none;
+}
+
+body{
+    background-color: rgb(7, 243, 152);
+}
+
+img{
+    height:170px;
+    width:170px;
+}
+.topic{
+
+    background-color:blueviolet;
+    animation-name: eff;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+}
+
+p{
+    background-color: crimson;
+}
+
+@keyframes eff{
+    0%{opacity:0};
+    50%{opacity:1};
+    100%{opacity:0};
+}
+
+
